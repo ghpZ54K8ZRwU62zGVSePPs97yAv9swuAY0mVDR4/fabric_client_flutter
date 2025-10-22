@@ -6,7 +6,7 @@ This is the repo for the implementation of the full lifecycle of Hyperledger Fab
 
 ## Quick Start
 
-Since the environment only supports localhost currently, we'd like to nevigate to `client` folder, and run.
+Since the environment only supports localhost currently, we'd like to run it directly.
 
 ### Run with Flutter
 
